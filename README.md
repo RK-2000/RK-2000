@@ -13,6 +13,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk-2000&show_icons=true&theme=radical)
 ![Skills](https://github-readme-stats.vercel.app/api?username=rk-2000&show_icons=true&theme=radical)
 
-![Visitor Count](https://profile-counter.glitch.me/rk-2000/count.svg)
 
 
