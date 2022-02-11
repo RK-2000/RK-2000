@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-## I'm Ritik Shrivastava
+## ![count](https://komarev.com/ghpvc/?username=rk-2000)
 - 👀 I’m interested in exploring and diving deep into anything which impacts human life with technology
 - 🌱 I’m currently working with React, Laravel and DApps.
 - 💞️ I’m looking to collaborate on any project which can help society to grow in a positive trend.
