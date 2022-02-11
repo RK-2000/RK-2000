@@ -8,7 +8,7 @@
       2. [Gmail](ritikshri19@gmail.com)
       3. [About Me](https://about.me/ritikshrivastava)
       4. [Gitlabs](https://gitlab.com/ritikshri19)
- 
+      5. [Developers Student Club](https://gdsc.community.dev/sagar-institute-of-science-and-technology-bhopal/)
       
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk-2000&show_icons=true&theme=radical)
 ![Skills](https://github-readme-stats.vercel.app/api?username=rk-2000&show_icons=true&theme=radical)
