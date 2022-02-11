@@ -6,8 +6,12 @@
 - 📫 You can reach me on
       1. Linkedin - https://www.linkedin.com/in/ritik-shrivastava-6768a11a3/
       2. Gmail - ritikshri19@gmail.com
-   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rk-2000&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=<rk-2000>&theme=<dark>" />
+ 
+<a href="https://www.linkedin.com/in/ritik-shrivastava-6768a11a3/" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
+      
+      
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk-2000&show_icons=true&theme=radical)
+![Skills](https://github-readme-stats.vercel.app/api?username=rk-2000&show_icons=true&theme=radical)
+
 
 
